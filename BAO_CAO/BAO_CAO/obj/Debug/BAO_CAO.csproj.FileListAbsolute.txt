@@ -1,0 +1,10 @@
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\bin\Debug\BAO_CAO.exe.config
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\bin\Debug\BAO_CAO.exe
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\bin\Debug\BAO_CAO.pdb
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.csproj.AssemblyReference.cache
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.Properties.Resources.resources
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.csproj.GenerateResource.cache
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.exe
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.pdb
+D:\LAP_TRINH_.NET\BAOCAO\BAO_CAO\BAO_CAO\obj\Debug\BAO_CAO.Form1.resources
